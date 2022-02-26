@@ -34,7 +34,7 @@
 <p align="center">
  <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
+5. https://heroku.com/deploy?template=https://github.com/Abhiff15x/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
 
 
   <p align="center">
@@ -58,6 +58,6 @@
 
 <a href="https://youtu.be/AGk2F4uORtc/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://instagram.com/_aj_fx._?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/918281440156" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/917592969476" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://chat.whatsapp.com/EdukdzFc6suJNCs62aJB3f" target="_blank"><img src="https://img.shields.io/badge/kaztroser bot group-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
