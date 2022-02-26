@@ -11,7 +11,7 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhiff/Kaztroser)
 
 
 
@@ -23,7 +23,7 @@
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Aj-fx/Kaztro_ser
+$ git clone https://github.com/Abhiff15/Kaztro_ser
 $ cd Kaztro_ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -32,7 +32,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Aj-fx/Kaztro_ser
+$ git clone https://github.com/Abhiff15/Kaztro_ser
 $ cd Kaztro_ser
 $ npm i
 $ node julie.js
